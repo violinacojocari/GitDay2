@@ -7,4 +7,8 @@ public class Cart {
     // Total
 
     // Promo code
+
+    // Deals
+
+    // Free shipping
 }
